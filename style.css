@@ -1,0 +1,150 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  border: 15px solid #41B383;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 8rem;
+  font-family: verdana, arial, sans-serif; 
+  line-height: 1.5;
+  background-color: #85DCB0;
+  color: white; 
+}
+
+h1 {
+  font-family: 'League Gothic', sans-serif;
+  font-size: 3em;
+}
+
+p {
+  font-style: italic;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #85DCB0;
+  font-family: 'League Gothic', sans-serif;
+  color: white;
+  font-size: 1.25em;
+  border: 1px solid white;
+}
+
+#startBtn:hover, #stopBtn:hover {
+  background-color:#41B383;
+  cursor: pointer;
+}
+
+#gameButtonArea {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 1em;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+  margin-top:20px;
+}
+
+#button1 {
+    background: #E27D60;
+    border: 0;
+}
+
+#button1:hover {
+  border: 1px solid white;
+}
+
+#button1:active, #button1.lit {
+  background:#d9390b;
+  border: 1px solid white;
+}
+
+#button2 {
+  background: #E8A87C;
+  border: 0;
+}
+
+#button2:hover {
+  border: 1px solid white;
+}
+
+#button2:active, #button2.lit {
+  background: #de5c02;
+  border: 1px solid white;
+}
+
+#button3 {
+  background: #C38D9E;
+  border: 0;
+}
+
+#button3:hover {
+  border: 1px solid white;
+}
+
+#button3:active, #button3.lit {
+  background: #b03e9d;
+  border: 1px solid white;
+}
+
+#button4 {
+  background: #FBBFCA;
+  border: 0;
+}
+
+#button4:hover {
+  border: 1px solid white;
+}
+
+#button4:active, #button4.lit {
+  background: #ff758f;
+  border: 1px solid white;
+}
+
+#button5 {
+  background: #909fb0;
+  border: 0;
+}
+
+#button5:hover {
+  border: 1px solid white;
+}
+
+#button5:active, #button5.lit {
+  background: #5e8ec4;
+  border: 1px solid white;
+}
+
+
+.hidden {
+  display: none;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+/*
+color scheme
+#E27D60
+#85DCB0
+#E8A87C
+#C38D9E
+#41B383
+*/

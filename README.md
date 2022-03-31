@@ -38,9 +38,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
+gif showing a loss
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67334348/160975967-cceb8a27-9ed3-4269-ad38-e86f88293cf1.gif)
+
+gif showing a win
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67334348/160977058-97de121b-6486-4031-b20e-8b0f0fec72fc.gif)
 
 ## Reflection Questions
@@ -64,7 +67,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [YOUR ANSWER HERE]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+  I would focus those few hours in adding more features to the game and expanding it. Firstly, I would finish all the optional features already mentioned. 
+  If time permits, I would expand the game into multiple modes so that the user can play in different styles. One of the modes would be an endless mode. In this mode,
+  there is no winning and users will play to get the highest score possible.
 
 
 

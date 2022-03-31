@@ -64,13 +64,21 @@ gif showing a win
   the colors I used.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+  
+  A question that I have about web developent is how do I make web development, or more specifically, front-end development quicker. This isn't a question that only 
+  occured to me while working on this project, but a question I always wondered in the few years of experience I had with basic web developmement. However, doing 
+  this project made this question become more of a concern in my mind. I spent majority of my hours on my project just working on the front-end to make it look 
+  somewhat palatable. This experience makes me wonder on how developers can make all these webpages and websites and meet deadlines. I know a possible answer to this
+  problem would be front-end frameworks. However, in my limited experience with frameworks like BootStrap and some React, I still found front-end development to be
+  a long process.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
   I would focus those few hours in adding more features to the game and expanding it. Firstly, I would finish all the optional features already mentioned. 
   If time permits, I would expand the game into multiple modes so that the user can play in different styles. One of the modes would be an endless mode. In this mode,
-  there is no winning and users will play to get the highest score possible.
+  there is no way to win and users will compete to get the highest score possible. I would add a normal mode, which would essentially be similar to the state of the
+  current game, but users would get to choose the amount of lives they want. If I was to devote even more time, I would use a database like MongoDB and use NodeJS 
+  to store users scores and add a webpage that tracks the highest scores around the world.
 
 
 
@@ -81,7 +89,7 @@ gif showing a win
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Rakeeb Hossain
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
